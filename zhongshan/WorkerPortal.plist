@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://120.234.56.66:8100/zhongshan/WorkerPortal.ipa</string>
+					<string>http://172.20.19.52:80/zhongshan/WorkerPortal.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://120.234.56.66:8100/gb@2x.png</string>
+					<string>http://172.20.19.52:80/gb@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://120.234.56.66:8100/gb@2x.png</string>
+					<string>http://172.20.19.52:80/gb@2x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
